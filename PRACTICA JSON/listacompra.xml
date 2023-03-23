@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<supermercado tipo="Carrefour">
+    <dirección>"Glorieta de Cuatro Caminos,4</dirección>
+    <mapa link="https://www.google.com/maps/place/Carrefour+Market/@40.4464312-3.709211116.4z/data=!4m6!3m5!1s0xd4228563fce7149:0xb7f23631360e06d6!8m2!3d40.4473538!4d-3.7043513!16s%2Fg%2F1td504xn"></mapa>
+    <metro>Cuatro Caminos</metro>
+    <seccion tipo="Limpieza">
+        <producto tipo="Lejía">
+             <unidadmedida>Litro</unidadmedida>
+             <precio>2</precio>
+             <oferta>No</oferta>
+             <precioOferta>No</precioOferta>
+             <adquirido>Si</adquirido>
+         </producto>
+
+        <producto tipo="Papel Higiénico">
+             <unidadmedida>Paquete</unidadmedida>
+             <precio>5</precio>
+             <oferta>si</oferta>
+             <precioOferta>4</precioOferta>
+             <adquirido>Si</adquirido>
+        </producto> 
+
+        <producto tipo="Estropajo">    
+            <unidadmedida>paquete</unidadmedida>
+            <precio>1.5</precio>
+            <oferta>No</oferta>
+            <precioOferta>No</precioOferta>
+            <adquirido>Si</adquirido>
+        </producto>  
+    </seccion>   
+
+    <seccion tipo="Pescadería">
+        <producto tipo="Salmón">
+             <unidadmedida>Kilo</unidadmedida>
+             <precio>15</precio>
+             <oferta>si</oferta>
+             <precioOferta>12</precioOferta>
+             <adquirido>Si</adquirido>
+         </producto>
+
+        <producto tipo="Merluza">
+             <unidadmedida>Kilo</unidadmedida>
+             <precio>10</precio>
+             <oferta>No</oferta>
+             <precioOferta>No</precioOferta>
+             <adquirido>No</adquirido>
+        </producto> 
+
+        <producto tipo="Pulpo">    
+            <unidadmedida>Kilo</unidadmedida>
+            <precio>20</precio>
+            <oferta>si</oferta>
+            <precioOferta>15</precioOferta>
+            <adquirido>no</adquirido>
+        </producto>  
+    </seccion>    
+
+    <seccion tipo="Carne">
+        <producto tipo="Pollo">
+             <unidadmedida>Kilo</unidadmedida>
+             <precio>4</precio>
+             <oferta>no</oferta>
+             <precioOferta>no</precioOferta>
+             <adquirido>Si</adquirido>
+         </producto>
+
+        <producto tipo="Pavo">
+             <unidadmedida>Kilo</unidadmedida>
+             <precio>4.5</precio>
+             <oferta>No</oferta>
+             <precioOferta>No</precioOferta>
+             <adquirido>No</adquirido>
+        </producto> 
+
+        <producto tipo="Jamón Ibérico">    
+            <unidadmedida>Kilo</unidadmedida>
+            <precio>40</precio>
+            <oferta>si</oferta>
+            <precioOferta>30</precioOferta>
+            <adquirido>si</adquirido>
+        </producto>  
+    </seccion>    
+
+</supermercado>

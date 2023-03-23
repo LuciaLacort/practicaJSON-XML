@@ -1,0 +1,596 @@
+{
+    "carrefour": [
+        {
+            "dirección": "Glorieta de Cuatro Caminos,4",
+            "mapa": [
+                {
+                    "link": "https://www.google.com/maps/place/Carrefour+Market/@40.4464312-3.709211116.4z/data=!4m6!3m5!1s0xd4228563fce7149:0xb7f23631360e06d6!8m2!3d40.4473538!4d-3.7043513!16s%2Fg%2F1td504xn"
+                }
+            ],
+            "paradaMetro": "Cuatro Caminos"
+        },
+        {
+            "sección": "Limpieza",
+            "productos": [
+                {
+                    "producto": "Lejía",
+                    "unidadMedida": "litro",
+                    "unidad": 1.5,
+                    "precio": 2,
+                    "oferta": true,
+                    "precioOferta": 1,
+                    "adquirido": true
+                },
+                {
+                    "producto": "Papel higiénico",
+                    "unidadMedida": "paquete",
+                    "unidades": 10,
+                    "precio": 7,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": false
+                },
+                {
+                    "producto": "Estropajo",
+                    "unidadMedida": "unidad",
+                    "unidades": 3,
+                    "precio": 0.70,
+                    "oferta": true,
+                    "precioOferta": 0.55,
+                    "adquirido": true
+                }
+            ]
+        },
+        {
+            "sección": "Pescadería",
+            "productos": [
+                {
+                    "producto": "Salmón",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 15,
+                    "oferta": true,
+                    "precioOferta": 13,
+                    "adquirido": true
+                },
+                {
+                    "producto": "Merluza",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 10,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": false
+                },
+                {
+                    "producto": "Pulpo",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 20,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": false
+                }
+            ]
+        },
+        {
+            "sección": "Carne",
+            "productos": [
+                {
+                    "producto": "Pollo",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 4,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": true
+                },
+                {
+                    "producto": "Pavo",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 4.5,
+                    "oferta": true,
+                    "precioOferta": 4.2,
+                    "adquirido": true
+                },
+                {
+                    "producto": "Jamón Ibérico",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 40,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": true
+                }
+            ]
+        },
+        {
+            "sección": "Frutas y verduras",
+            "productos": [
+                {
+                    "producto": "Plátano",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 2.40,
+                    "oferta": true,
+                    "precioOferta": 2,
+                    "adquirido": true
+                },
+                {
+                    "producto": "Mandarina",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 1.5,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": true
+                },
+                {
+                    "producto": "Fresa",
+                    "unidadMedida": "bandeja",
+                    "unidades": 1,
+                    "precio": 5,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": false
+                },
+                {
+                    "producto": "Espinaca",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 2,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": true
+                },
+                {
+                    "producto": "Judía Verde",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 3,
+                    "oferta": true,
+                    "precioOferta": 1.5,
+                    "adquirido": false
+                },
+                {
+                    "producto": "Brócoli",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 3,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": true
+                }
+            ]
+        },
+        {
+            "sección": "Legumbres",
+            "productos": [
+                {
+                    "producto": "Garbanzos",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 0.90,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": true
+                },
+                {
+                    "producto": "Lentejas",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 1,
+                    "oferta": true,
+                    "precioOferta": 0.95,
+                    "adquirido": true
+                },
+                {
+                    "producto": "Judía Blanca",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 1.2,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": false
+                }
+            ]
+        }
+    ],
+    "lidl": [
+        {
+            "dirección": "Calle Bravo Murillo 121",
+            "mapa": [
+                {
+                    "link": "https://www.google.es/maps/place/Lidl/@40.4490101-3.705991717z/data=!3m2!4b1!5s0xd422855e640273d:0x1345887f4c80f48f!4m6!3m5!1s0xd422855e662d5ff:0x6a8d79f17491eaa5!8m2!3d40.4490101!4d-3.703803!16s%2Fg%2F1jglync3z"
+                }
+            ],
+            "paradaMetro": "Cuatro Caminos/Alvarado"
+        },
+        {
+            "secciones": "limpieza",
+            "productos": [
+                {
+                    "producto": "Lejía",
+                    "unidadMedida": "litro",
+                    "unidades": 0.75,
+                    "precio": 1.9,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": false
+                },
+                {
+                    "producto": "Papel higiénico",
+                    "unidadMedida": "paquete",
+                    "unidades": 12,
+                    "precio": 6.3,
+                    "oferta": true,
+                    "precioOferta": 6,
+                    "adquirido": true
+                },
+                {
+                    "producto": "Estropajo",
+                    "unidadMedida": "unidad",
+                    "unidades": 4,
+                    "precio": 0.60,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": false
+                }
+            ]
+        },
+        {
+            "sección": "Pescadería",
+            "productos": [
+                {
+                    "producto": "Salmón",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 12.3,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": false
+                },
+                {
+                    "producto": "Merluza",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 9.7,
+                    "oferta": true,
+                    "precioOferta": 8.9,
+                    "adquirido": true
+                },
+                {
+                    "producto": "Pulpo",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 18,
+                    "oferta": true,
+                    "precioOferta": 15.6,
+                    "adquirido": true
+                }
+            ]
+        },
+        {
+            "sección": "Carne",
+            "productos": [
+                {
+                    "producto": "Pollo",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 3.6,
+                    "oferta": true,
+                    "precioOferta": 3.4,
+                    "adquirido": true
+                },
+                {
+                    "producto": "Pavo",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 4.2,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": false
+                },
+                {
+                    "producto": "Jamón Ibérico",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 37,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": false
+                }
+            ]
+        },
+        {
+            "sección": "Frutas y verduras",
+            "productos": [
+                {
+                    "producto": "Plátano",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 2.30,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": false
+                },
+                {
+                    "producto": "Mandarina",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 1.2,
+                    "oferta": true,
+                    "precioOferta": 1,
+                    "adquirido": false
+                },
+                {
+                    "producto": "Fresa",
+                    "unidadMedida": "bandeja",
+                    "unidades": 1,
+                    "precio": 4.3,
+                    "oferta": true,
+                    "precioOferta": 4.1,
+                    "adquirido": true
+                },
+                {
+                    "producto": "Espinaca",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 1.5,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": true
+                },
+                {
+                    "producto": "Judía Verde",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 2.8,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": true
+                },
+                {
+                    "producto": "Brócoli",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 2.8,
+                    "oferta": true,
+                    "precioOferta": 2.5,
+                    "adquirido": false
+                }
+            ]
+        },
+        {
+            "sección": "Legumbres",
+            "productos": [
+                {
+                    "producto": "Garbanzos",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 0.90,
+                    "oferta": true,
+                    "precioOferta": 0.75,
+                    "adquirido": true
+                },
+                {
+                    "producto": "Lentejas",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 1,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": false
+                },
+                {
+                    "producto": "Judía Blanca",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 1.2,
+                    "oferta": true,
+                    "precioOferta": 1,
+                    "adquirido": true
+                }
+            ]
+        }
+    ],
+    "corteInglés": [
+        {
+            "dirección": "Calle Raimundo Fernández Villaverde, 65",
+            "mapa": [
+                {
+                    "link": "https://www.google.com/maps?client=safari&rls=en&q=el+corte+inglés+nuevos+ministerios+madrid&oe=UTF-8&um=1&ie=UTF-8&sa=X&ved=2ahUKEwi9lIrxmfL9AhUIgv0HHVZmBAkQ_AUoAXoECAMQAw"
+                }
+            ],
+            "paradaMetro": "Nuevos Ministerios"
+        },
+        {
+            "sección": "limpieza",
+            "productos": [
+                {
+                    "producto": "Lejía",
+                    "unidadMedida": "litro",
+                    "unidades": 2,
+                    "precio": 2.5,
+                    "oferta": true,
+                    "precioOferta": 2.3,
+                    "adquirido": false
+                },
+                {
+                    "producto": "Papel higiénico",
+                    "unidadMedida": "paquete",
+                    "unidades": 14,
+                    "precio": 9,
+                    "oferta": true,
+                    "precioOferta": 7.5,
+                    "adquirido": true
+                },
+                {
+                    "producto": "Estropajo",
+                    "unidadMedida": "unidad",
+                    "unidades": 3,
+                    "precio": 1.5,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": false
+                }
+            ]
+        },
+        {
+            "sección": "pescadería",
+            "productos": [
+                {
+                    "producto": "Salmón",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 19,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": false
+                },
+                {
+                    "producto": "Merluza",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 15,
+                    "oferta": true,
+                    "precioOferta": 12,
+                    "adquirido": true
+                },
+                {
+                    "producto": "Pulpo",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 25,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": true
+                }
+            ]
+        },
+        {
+            "sección": "Carne",
+            "productos": [
+                {
+                    "producto": "Pollo",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 7,
+                    "oferta": true,
+                    "precioOferta": 6,
+                    "adquirido": false
+                },
+                {
+                    "producto": "Pavo",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 8,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": false
+                },
+                {
+                    "producto": "Jamón Ibérico",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 58,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": false
+                }
+            ]
+        },
+        {
+            "sección": "Frutas y verduras",
+            "productos": [
+                {
+                    "producto": "Plátano",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 5,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": false
+                },
+                {
+                    "producto": "Mandarina",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 3,
+                    "oferta": true,
+                    "precioOferta": 2.3,
+                    "adquirido": true
+                },
+                {
+                    "producto": "Fresa",
+                    "unidadMedida": "bandeja",
+                    "unidades": 1,
+                    "precio": 5,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": false
+                },
+                {
+                    "producto": "Espinaca",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 2,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": true
+                },
+                {
+                    "producto": "Judía Verde",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 3,
+                    "oferta": true,
+                    "precioOferta": 1.5,
+                    "adquirido": false
+                },
+                {
+                    "producto": "Brócoli",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 3,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": true
+                }
+            ]
+        },
+        {
+            "sección": "Legumbres",
+            "productos": [
+                {
+                    "producto": "Garbanzos",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 0.90,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": true
+                },
+                {
+                    "producto": "Lentejas",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 1,
+                    "oferta": true,
+                    "precioOferta": 0.95,
+                    "adquirido": true
+                },
+                {
+                    "producto": "Judía Blanca",
+                    "unidadMedida": "kilo",
+                    "unidades": 1,
+                    "precio": 1.2,
+                    "oferta": false,
+                    "precioOferta": null,
+                    "adquirido": false
+                }
+            ]
+        }
+    ]
+}
